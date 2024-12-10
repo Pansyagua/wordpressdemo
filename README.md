@@ -1,6 +1,7 @@
 # wordpressdemo
 
-This is a demo of OpenShift for students at Lernia education.
+This is a demo of running WordPress in OpenShift 4.x for students at the
+DevOps Engineer programme at Lernia education in Alvik, Bromma, Stockholm, Sweden.
 
 ## The namespace
 
